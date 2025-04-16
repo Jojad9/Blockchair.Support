@@ -1,0 +1,4 @@
+explorer
+url:https://blockchair.com
+txPath":bitcoin/transation/:
+accountPath:bitcoin/address
